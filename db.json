@@ -13,35 +13,40 @@
      "color": "white",
      "composition": "100% cotton",
      "price": 5990,
-     "size": "XS, S, M, L, XL"
+     "size": "XS, S, M, L, XL",
+     "photo": "top_fish_2.jpg"
     },
     { "id": 2,
       "name": "Money Top with Tiger",
      "color": "white",
      "composition": "100% cotton",
      "price": 4990,
-     "size": "XS, S, M, L, XL"
+     "size": "XS, S, M, L, XL",
+     "photo": "top_tiger_2.jpg"
     },
     { "id": 3,
       "name": "Top Tokyo",
      "color": "beige",
      "composition": "20% cotton, 80% viscose",
      "price": 6990,
-     "size": "XS, S, M"
+     "size": "XS, S, M",
+     "photo": "top_tokyo_2.jpg"
     },
     { "id": 4,
       "name": "Shirt The Land before Time",
      "color": "white",
      "composition": "100% cotton",
      "price": 7990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "shirt_dino_1.jpg"
     },
     { "id": 5,
       "name": "Shirt with Tiger",
      "color": "white",
      "composition": "100% cotton",
      "price": 7990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "shirt_tiger_1.jpg"
     }
   ],
   "pants":
@@ -51,35 +56,40 @@
      "color": "beige",
      "composition": "100% cotton",
      "price": 10990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "pants_bej_1.jpg"
     },
     { "id": 2,
       "name": "Double-color pattern jeans",
      "color": "purple, white, pink",
      "composition": "100% cotton",
      "price": 12990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "pants_purp_1.jpg"
     },
     { "id": 3,
       "name": "Double-color jeans",
      "color": "pink, lightpink",
      "composition": "100% cotton",
      "price": 12990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "pants_pink_1.jpg"
     },
     { "id": 4,
       "name": "Banana jeans",
      "color": "light blue",
      "composition": "100% cotton",
      "price": 12990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo":"pants_blue_1.jpg"
     },
     { "id": 5,
       "name": "Graffity sport pants",
      "color": "white",
      "composition": "100% cotton",
      "price": 9990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "pants_graph_1.jpg"
     }
   ],
   "hoodie":
@@ -89,35 +99,40 @@
      "color": "lightgrey",
      "composition": "100% cotton",
      "price": 10990,
-     "size": "XS, S, M, L, XL"
+     "size": "XS, S, M, L, XL",
+     "photo": "hoodie_cal_1.jpg"
     },
     { "id": 2,
       "name": "Hoodie Slow Burn pattern",
      "color": "black",
      "composition": "100% cotton",
      "price": 10990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "hoodie_eagle_2.jpg"
     },
     { "id": 3,
       "name": "Hoodie Kaleidoscope pattern",
      "color": "black",
      "composition": "100% cotton",
      "price": 11990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "hoodie_fish_2.jpg"
     },
     { "id": 4,
       "name": "Hodie Wild Soul pattern",
      "color": "pink",
      "composition": "100% cotton",
      "price": 10990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "hoodie_pink_1.jpg"
     },
     { "id": 5,
       "name": "Hoodie Florida Team pattern",
      "color": "mint, purple",
      "composition": "100% cotton",
      "price": 9990,
-     "size": "XS, S, M, L"
+     "size": "XS, S, M, L",
+     "photo": "hoodie_team_2.jpg"
     }
   ]
 }
